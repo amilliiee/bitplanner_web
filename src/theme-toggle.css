@@ -1,0 +1,27 @@
+.moon, .sun {
+  transform: rotate(-45deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.theme-toggle {
+  border-width: 1px;
+  border-color: transparent;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--toggle-color);
+  transform: rotate(45deg);
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.theme-toggle:hover {
+  background-color: var(--toggle-highlight-color);
+  cursor: pointer;
+  transform: rotate(-45deg);
+}
+
+.theme-toggle:hover .moon, .theme-toggle:hover .sun {
+  transform: rotate(45deg);
+}
