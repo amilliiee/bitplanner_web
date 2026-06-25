@@ -42,7 +42,7 @@ jobs:
 
       - name: Run Data Pipeline
         run: |
-          python gameData/generate_data.py
+          python gameData/game_data.py
 
       - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v7
