@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git clone https://${{ secrets.PAT_TOKEN }}@github.com/amilliiee/BitCraft_Assets.git icons-temp
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/BitCraftToolBox/BitCraft_Assets.git icons-temp
           mkdir -p BitCraft_Assets/sprites/GeneratedIcons/
           cp -r icons-temp/sprites/GeneratedIcons/* ./BitCraft_Assets/sprites/GeneratedIcons
 
