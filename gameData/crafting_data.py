@@ -389,4 +389,5 @@ def main():
 
 if __name__ == "__main__":
   main()
-  input('Press Enter to exit...')
+  if 'GITHUB_ACTIONS' not in os.environ:
+    input('Press Enter to exit...')
