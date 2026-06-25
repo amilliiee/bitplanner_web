@@ -25,7 +25,12 @@ jobs:
         run: |
           git clone --branch cereal/cs --depth 1 https://github.com/BitCraftToolBox/BitCraft_GameData.git game-data-temp
           mkdir -p BitCraft_GameData/static
-          cp -r game-data-temp/static/* ./BitCraft_GameData/static
+          cp -r game-data-temp/static/cargo_desc.json ./BitCraft_GameData/static/
+          cp -r game-data-temp/static/crafting_recipe_desc.json ./BitCraft_GameData/static/
+          cp -r game-data-temp/static/enemy_desc.json ./BitCraft_GameData/static/
+          cp -r game-data-temp/static/extraction_recipe_desc.json ./BitCraft_GameData/static/
+          cp -r game-data-temp/static/item_desc.json ./BitCraft_GameData/static/
+          cp -r game-data-temp/static/item_list_desc.json ./BitCraft_GameData/static/
 
       - name: Clone Private Icon Repo
         env:

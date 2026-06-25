@@ -10,9 +10,12 @@ from pathlib import Path
 # ---------------------
 # Data sourced from BitCraft ToolBox (https://github.com/BitCraftToolBox/BitCraft_GameData)
 # Icons sourced Brico (https://github.com/BitCraftToolBox/brico)
-DATA_ROOT = Path("BitCraft_GameData/static")
-ICON_ROOT = Path("BitCraft_Assets/sprites/GeneratedIcons")
-OUTPUT_PATH = Path("../src/data/crafting_data.json")
+SCRIPT_DIR = Path(__file__).parent.resolve()
+PROJECT_ROOT = SCRIPT_DIR.parent
+
+DATA_ROOT = PROJECT_ROOT / "gameData" / "BitCraft_GameData" / "static"
+ICON_ROOT = PROJECT_ROOT / "gameData" / "BitCraft_Assets" / "sprites" / "GeneratedIcons"
+OUTPUT_PATH = PROJECT_ROOT / "src" / "data" / "crafting_data.json"
 
 # Cargo offset: Shift value added to cargo ids to allow for items and cargo to exist in a single list
 CARGO_OFFSET = 0xffffffff
@@ -167,7 +170,6 @@ def get_recipe_priority(target_id, recipe):
   except (TypeError, ZeroDivisionError) as e:
     print(f"WARNING: Could not calculate priority for {target_id}, recipe {recipe.get('name', 'unknown')}. Using default priority. Error: {e}")
     return 999999 # Return high number (low priority) so recipe is sorted to end but script doesn't crash
-
 
 # # # # # # # # # # # # # # # # # # # # # # # #
 
