@@ -273,7 +273,7 @@ def main():
     # Verify
     dest_files = list(PUBLIC_DEST_ICONS_PATH.rglob("*"))
     webp_files = [f for f in dest_files if f.suffix == '.webp']
-    print(f"  Verification: Destination has {len(webp_files)} .webp files in {len(dest_files - webp_files)} subfolders")
+    print(f"  Verification: Destination has {len(webp_files)} .webp files in {len(webp_files)} subfolders")
   else:
     print(f"  ERROR: Source path does not exist!")
     print(f"  Checking parent: {SOURCE_ICONS_PATH.parent.exists()}")
