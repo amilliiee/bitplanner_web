@@ -12,3 +12,10 @@ node_modules/
 .vscode/
 .idea/
 .DS_Store
+
+BitCraft_GameData/
+BitCraft_Assets/
+icons-temp/
+game-data-temp/
+__pycache__/
+*.pyc
