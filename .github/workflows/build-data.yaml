@@ -46,4 +46,4 @@ jobs:
           file_pattern: src/data/crafting_data.json public/assets/GeneratedIcons/*
 
       - name: Trigger Vercel Deployment
-        run: curl -X POST ${{  }} #!!! GENERATE VERCEL TOKEN
+        run: curl -X POST ${{ secrets.VERCEL_DEPLOY_HOOK_URL }} # Not needed but ensures immediate push
