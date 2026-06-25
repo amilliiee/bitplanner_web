@@ -245,7 +245,7 @@ def main():
     }
   
   # Icon consolidation
-  SOURCE_ICONS_PATH = Path("BitCraft_Assets/sprites/GeneratedIcons")
+  SOURCE_ICONS_PATH = ICON_ROOT
   PUBLIC_DEST_ICONS_PATH = Path("public/assets/GeneratedIcons")
   
   print(f"Copying icons from {SOURCE_ICONS_PATH} to {PUBLIC_DEST_ICONS_PATH}...")
@@ -254,14 +254,31 @@ def main():
 
   copied_count = 0
   if SOURCE_ICONS_PATH.exists():
-    for src_file in SOURCE_ICONS_PATH.iterdir():
-      if src_file.is_file() and src_file.suffix == '.webp':
-        dst_file = PUBLIC_DEST_ICONS_PATH / src_file.name
-        shutil.copy2(src_file, dst_file)
-        copied_count += 1
-    print(f"Copied {copied_count} icons.")
+    for root, dirs, files in os.walk(SOURCE_ICONS_PATH):
+      for file in files:
+        if file.endswith('.webp'):
+          src_file = Path(root) / file
+          # Calculate relative path from SOURCE to preserve subfolder structure
+          rel_path = src_file.relative_to(SOURCE_ICONS_PATH)
+          dst_file = PUBLIC_DEST_ICONS_PATH / rel_path
+
+          # Create destination subfolder if DNE
+          dst_file.parent.mkdir(parents=True, exist_ok=True)
+
+          shutil.copy2(src_file, dst_file)
+          copied_count += 1
+
+    print(f"Copied {copied_count} icons with subfolder structure preserved.")
+
+    # Verify
+    dest_files = list(PUBLIC_DEST_ICONS_PATH.rglob("*"))
+    webp_files = [f for f in dest_files if f.suffix == '.webp']
+    print(f"  Verification: Destination has {len(webp_files)} .webp files in {len(dest_files - webp_files)} subfolders")
   else:
-    print(f"Source not found: {SOURCE_ICONS_PATH}")
+    print(f"  ERROR: Source path does not exist!")
+    print(f"  Checking parent: {SOURCE_ICONS_PATH.parent.exists()}")
+    if SOURCE_ICONS_PATH.parent.exists():
+      print(f"  Parent contents: {[str(i) for i in SOURCE_ICONS_PATH.parent.iterdir()]}")
   
   # Normalize icon paths
   print('Normalizing icon paths...')
