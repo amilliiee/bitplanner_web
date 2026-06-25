@@ -245,39 +245,23 @@ def main():
     }
   
   # Icon consolidation
-  generated_icons_path = Path("brico/frontend/public/assets/GeneratedIcons")
-  old_generated_icons_path = Path("brico/frontend/public/assets/OldGeneratedIcons")
+  SOURCE_ICONS_PATH = Path("BitCraft_Assets/sprites/GeneratedIcons")
+  PUBLIC_DEST_ICONS_PATH = Path("public/assets/GeneratedIcons")
   
-  print("Consolidating icon directories...")
-  
-  # Scan directories
-  generated_icons = set()
-  if generated_icons_path.exists():
-    for root, dirs, files in os.walk(generated_icons_path):
-      for f in files:
-        if f.endswith('.webp'):
-          rel = os.path.relpath(os.path.join(root, f), generated_icons_path)
-          generated_icons.add(rel)
-  
-  old_generated_icons = set()
-  if old_generated_icons_path.exists():
-    for root, dirs, files in os.walk(old_generated_icons_path):
-      for f in files:
-        if f.endswith('.webp'):
-          rel = os.path.relpath(os.path.join(root, f), old_generated_icons_path)
-          old_generated_icons.add(rel)
-          
-  missing_in_generated = old_generated_icons - generated_icons
+  print(f"Copying icons from {SOURCE_ICONS_PATH} to {PUBLIC_DEST_ICONS_PATH}...")
+
+  PUBLIC_DEST_ICONS_PATH.mkdir(parents=True, exist_ok=True)
+
   copied_count = 0
-  
-  for icon_path in missing_in_generated:
-    src = old_generated_icons_path / icon_path
-    dst = generated_icons_path / icon_path
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(src, dst)
-    copied_count += 1
-    
-  print(f"Copied {copied_count} missing icons.")
+  if SOURCE_ICONS_PATH.exists():
+    for src_file in SOURCE_ICONS_PATH.iterdir():
+      if src_file.is_file() and src_file.suffix == '.webp':
+        dst_file = PUBLIC_DEST_ICONS_PATH / src_file.name
+        shutil.copy2(src_file, dst_file)
+        copied_count += 1
+    print(f"Copied {copied_count} icons.")
+  else:
+    print(f"Source not found: {SOURCE_ICONS_PATH}")
   
   # Normalize icon paths
   print('Normalizing icon paths...')
