@@ -271,8 +271,8 @@ def main():
     print(f"Copied {copied_count} icons with subfolder structure preserved.")
 
     # Verify
-    dest_files = list(PUBLIC_DEST_ICONS_PATH.rglob("*.webp"))
-    print(f"  Verification: Destination has {len(webp_files)} .webp files in {len(webp_files)} subfolders")
+    webp_files = list(PUBLIC_DEST_ICONS_PATH.rglob("*.webp"))
+    print(f"  Verification: Destination has {len(webp_files)} .webp files.")
   else:
     print(f"  ERROR: Source path does not exist!")
     print(f"  Checking parent: {SOURCE_ICONS_PATH.parent.exists()}")
