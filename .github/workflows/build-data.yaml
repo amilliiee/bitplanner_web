@@ -1,0 +1,49 @@
+name: Update Game Data & Icons
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # Run on the 1st and 15th of every month at 09:00 UTC
+    - cron: '0 9 1,15 * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # Hybrid approach for data fetching
+      - name: Fetch Latest Public GameData
+        run: |
+          git clone --branch cereal/cs --depth 1 https://github.com/BitCraftToolBox/BitCraft_GameData.git game-data-temp
+          mkdir -p BitCraft_GameData/static
+          cp -r game-data-temp/static/* ./BitCraft_GameData/static
+
+      - name: Clone Private Icon Repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/amilliiee/BitCraft_Assets.git icons-temp
+          mkdir -p BitCraft_Assets/sprites/GeneratedIcons/
+          cp -r icons-temp/sprites/GeneratedIcons/* ./BitCraft_Assets/sprites/GeneratedIcons
+
+      - name: Run Data Pipeline
+        run: |
+          python scripts/generate_data.py
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: Auto-update game data and icons"
+          file_pattern: src/data/crafting_data.json public/assets/GeneratedIcons/*
+
+      - name: Trigger Vercel Deployment
+        run: curl -X POST ${{  }} #!!! GENERATE VERCEL TOKEN
