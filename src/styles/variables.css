@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root, [data-theme="light"] {
+  --text-color-primary: #15567e;
+  --item-and-filter-text-color: #15567e;
+  --item-and-filter-bg-color: #d3cab1;
+  --page-bg-color: #e9dfc4;
+  --search-bar-bg-color: #f4f0e4;
+  --search-bar-placeholder-color: #7699aa;
+  --search-bar-text-color: #15567e;
+  --search-bar-border-color: #e3e1d8;
+  --bitcraft-icon-color: #296384;
+  --filter-caret-color: #042041;
+  --common-item-color: #866d49;
+  --uncommon-item-color: #996257;
+  --rare-item-color: #6a809f;
+  --epic-item-color: #c37513;
+  --legendary-item-color: #1096bd;
+  --filter-dropdown-bg-color: #d3cab1;
+  --filter-option-hover-color: #e9e5d8;
+  --dropdown-open-border-color: #444444;
+
+  --filter-caret-icon: url('../assets/ArrowDownLight.png');
+  --separator-color: #2b2e3b;
+  --font-style: 'Josefin Sans';
+
+  /* Header colors */
+  --theme-toggle-color: #d3cab1;
+  --theme-toggle-highlight-color: #e9dfc4;
+  --header-color: #15567e;
+}
+
+[data-theme="dark"] {
+  --text-color-primary: #d3cab1;
+  --item-and-filter-text-color: #e9dfc4;
+  --item-and-filter-bg-color: #221f2c;
+  --page-bg-color: #2e2b3b;
+  --search-bar-bg-color: #120f06;
+  --search-bar-placeholder-color: #686252;
+  --search-bar-text-color: #e9dfc4;
+  --search-bar-border-color: #e9dfc4;
+  --bitcraft-icon-color: #d8ceb7;
+  --filter-caret-color: #d9caa2;
+  --common-item-color: #826a49;
+  --uncommon-item-color: #955c52;
+  --rare-item-color: #6a809f;
+  --epic-item-color: #c37513;
+  --legendary-item-color: #1096bd;
+  --filter-dropdown-bg-color: #221f2c;
+  --filter-option-hover-color: #57565c;
+
+  --filter-caret-icon: url('../assets/ArrowDownDark.png');
+  --separator-color: #d4cab1;
+}
