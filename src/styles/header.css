@@ -1,0 +1,10 @@
+@import './variables.css';
+
+header {
+  background-color: var(--header-color);
+  height: 56px;
+  display: flex;
+  padding: 12px;
+  align-items: center;
+  justify-content: flex-end;
+}

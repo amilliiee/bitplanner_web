@@ -1,0 +1,299 @@
+@import './variables.css';
+
+.display-content {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 20px;
+  height: 100vh;
+  padding: 20px;
+}
+
+.filters-content {
+  border-right: 1px solid var(--separator-color);
+  padding-right: 20px;
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+}
+
+.search-and-filters {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-wrapper {
+  position: relative;
+  flex: 1;
+}
+
+#search-bar {
+  min-width: 64%;
+  padding: 10px;
+  font-size: 16px;
+  font-family: var(--font-style);
+  background-color: var(--search-bar-bg-color);
+  border: 2px solid var(--search-bar-border-color);
+  border-radius: 8px;
+  margin-right: 6px;
+  color: var(--search-bar-text-color);
+}
+
+#search-bar::placeholder {
+  color: var(--search-bar-placeholder-color);
+}
+
+#clear-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  color: var(--search-bar-text-color);
+}
+
+.filter-dropdown {
+  min-width: 16%;
+  flex-shrink: 0;
+}
+
+#tier-filter, #skill-filter {
+  min-width: 16%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: var(--font-style);
+  height: 100%;
+  background-color: var(--item-and-filter-bg-color);
+  color: var(--item-and-filter-text-color);
+
+  
+  appearance: none;
+  --webkit-appearance: none;
+  --moz-appearance: none;
+  background-image: var(--filter-caret-icon);
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  background-size: 24px 24px;
+}
+
+select option {
+  background-color: var(--filter-dropdown-bg-color);
+  font-family: var(--font-style);
+}
+
+select option:hover {
+  background-color: var(--filter-option-hover-color);
+}
+
+#skill-filter {
+  margin-right: 8px;
+}
+
+.items-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 15px;
+  padding: 8px;
+  background: var(--page-bg-color);
+}
+
+.item-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: var(--item-and-filter-bg-color);
+  color: var(--item-and-filter-text-color);
+}
+
+.item-card:hover {
+  border-color: #3498db;
+  transform: translateY(-2px);
+}
+
+.item-card.selected {
+  border-color: #3498db;
+  background-color: #ebf4ff;
+}
+
+.item-icon {
+  width: 36px;
+  height: 36px;
+  margin-right: 8px;
+}
+
+.item-details {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  z-index: 1000;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+}
+
+.detail-icon {
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+.item-info {
+  margin-top: 15px;
+}
+
+.item-info p {
+  margin: 5px 0;
+}
+
+.selected-item-details {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.selected-item-details h3 {
+  margin: 0 0 0.5rem 0;
+  color: #333;
+}
+
+.selected-item-details p {
+  margin: 0 0 1rem 0;
+  color: #666;
+}
+
+/* Main content area with tab interface */
+.main-content {
+  position: relative;
+  min-height: 400px;
+}
+
+/* Tab header that replaces the search bar */
+.tab-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 20px;
+  padding: 12px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.tab-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  flex: 1;
+}
+
+.close-tab-button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #666;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.close-tab-button:hover {
+  background-color: #e0e0e0;
+  color: #333;
+}
+
+/* Content areas */
+/* .items-content {
+  Default state for items grid
+}
+
+.crafting-content {
+  Style for crafting tree view
+} */
+
+/* Hide content when not active */
+.content-hidden {
+  display: none;
+}
+
+/* Add to crafting-list.css */
+.content-area {
+  position: relative;
+}
+
+.items-content, .crafting-content {
+  transition: opacity 0.2s ease;
+}
+
+.content-hidden {
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.tab-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 20px;
+  padding: 12px;
+  background-color: var(--page-bg-color);
+  min-height: 60px; /* Fixed height to prevent layout shift */
+}
+
+.tab-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  flex: 1;
+  margin: 0;
+}
+
+#search-bar {
+  flex: 1;
+  margin-right: 10px;
+  min-width: auto; /* Override previous min-width */
+}
+
+/* Style the back button */
+.selected-item-details button {
+  padding: 8px 16px;
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.selected-item-details button:hover {
+  background-color: #5a6268;
+}
