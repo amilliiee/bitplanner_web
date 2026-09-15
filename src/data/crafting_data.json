@@ -26099,7 +26099,7 @@
       {
         "consumed_items": [
           {
-            "id": 1641533960,
+            "id": 542660177,
             "quantity": 1
           }
         ],
@@ -26114,7 +26114,7 @@
       {
         "consumed_items": [
           {
-            "id": 542660177,
+            "id": 1641533960,
             "quantity": 1
           }
         ],
@@ -26159,7 +26159,7 @@
       {
         "consumed_items": [
           {
-            "id": 1611776313,
+            "id": 2050792704,
             "quantity": 1
           }
         ],
@@ -26174,7 +26174,7 @@
       {
         "consumed_items": [
           {
-            "id": 2050792704,
+            "id": 1611776313,
             "quantity": 1
           }
         ],
@@ -26309,7 +26309,7 @@
       {
         "consumed_items": [
           {
-            "id": 195985213,
+            "id": 885073183,
             "quantity": 1
           }
         ],
@@ -26324,7 +26324,7 @@
       {
         "consumed_items": [
           {
-            "id": 885073183,
+            "id": 195985213,
             "quantity": 1
           }
         ],
@@ -26354,21 +26354,6 @@
       {
         "consumed_items": [
           {
-            "id": 872981981,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1093702298,
             "quantity": 1
           }
@@ -26378,6 +26363,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 872981981,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -26444,21 +26444,6 @@
       {
         "consumed_items": [
           {
-            "id": 235495704,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 3,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 745640067,
             "quantity": 1
           }
@@ -26474,7 +26459,7 @@
       {
         "consumed_items": [
           {
-            "id": 1215621897,
+            "id": 235495704,
             "quantity": 1
           }
         ],
@@ -26490,6 +26475,21 @@
         "consumed_items": [
           {
             "id": 231547938,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 3,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1215621897,
             "quantity": 1
           }
         ],
@@ -29639,21 +29639,6 @@
       {
         "consumed_items": [
           {
-            "id": 2069745282,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 26203299,
             "quantity": 1
           }
@@ -29663,6 +29648,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 2069745282,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -29774,7 +29774,7 @@
       {
         "consumed_items": [
           {
-            "id": 1498267384,
+            "id": 794469085,
             "quantity": 1
           }
         ],
@@ -29789,7 +29789,7 @@
       {
         "consumed_items": [
           {
-            "id": 794469085,
+            "id": 1498267384,
             "quantity": 1
           }
         ],
@@ -34819,7 +34819,7 @@
       {
         "consumed_items": [
           {
-            "id": 707614133,
+            "id": 1210508735,
             "quantity": 1
           }
         ],
@@ -34834,7 +34834,7 @@
       {
         "consumed_items": [
           {
-            "id": 1210508735,
+            "id": 707614133,
             "quantity": 1
           }
         ],
@@ -35359,7 +35359,7 @@
       {
         "consumed_items": [
           {
-            "id": 1745371881,
+            "id": 1092545496,
             "quantity": 1
           }
         ],
@@ -35374,7 +35374,7 @@
       {
         "consumed_items": [
           {
-            "id": 1092545496,
+            "id": 1745371881,
             "quantity": 1
           }
         ],
@@ -35434,21 +35434,6 @@
       {
         "consumed_items": [
           {
-            "id": 1982561264,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1941547438,
             "quantity": 1
           }
@@ -35458,6 +35443,21 @@
           "skill_id": 6
         },
         "output_quantity": 750,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1982561264,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -35509,7 +35509,7 @@
       {
         "consumed_items": [
           {
-            "id": 1721931439,
+            "id": 520231582,
             "quantity": 1
           }
         ],
@@ -35517,7 +35517,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 50,
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -35539,7 +35539,7 @@
       {
         "consumed_items": [
           {
-            "id": 520231582,
+            "id": 1721931439,
             "quantity": 1
           }
         ],
@@ -35547,7 +35547,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 15,
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -35719,7 +35719,7 @@
       {
         "consumed_items": [
           {
-            "id": 2096616269,
+            "id": 97548860,
             "quantity": 1
           }
         ],
@@ -35734,7 +35734,7 @@
       {
         "consumed_items": [
           {
-            "id": 97548860,
+            "id": 2096616269,
             "quantity": 1
           }
         ],
@@ -35794,7 +35794,7 @@
       {
         "consumed_items": [
           {
-            "id": 135908579,
+            "id": 1233539858,
             "quantity": 1
           }
         ],
@@ -35824,7 +35824,7 @@
       {
         "consumed_items": [
           {
-            "id": 1233539858,
+            "id": 135908579,
             "quantity": 1
           }
         ],
@@ -35959,7 +35959,7 @@
       {
         "consumed_items": [
           {
-            "id": 1852277700,
+            "id": 2048178531,
             "quantity": 1
           }
         ],
@@ -35974,7 +35974,7 @@
       {
         "consumed_items": [
           {
-            "id": 2048178531,
+            "id": 1852277700,
             "quantity": 1
           }
         ],
@@ -36199,7 +36199,7 @@
       {
         "consumed_items": [
           {
-            "id": 733925990,
+            "id": 1535319947,
             "quantity": 1
           }
         ],
@@ -36214,7 +36214,7 @@
       {
         "consumed_items": [
           {
-            "id": 1535319947,
+            "id": 733925990,
             "quantity": 1
           }
         ],
@@ -36679,21 +36679,6 @@
       {
         "consumed_items": [
           {
-            "id": 1057564105,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1805581060,
             "quantity": 1
           }
@@ -36710,6 +36695,21 @@
         "consumed_items": [
           {
             "id": 1246240393,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1057564105,
             "quantity": 1
           }
         ],
@@ -42212,6 +42212,27 @@
       {
         "consumed_items": [
           {
+            "id": 1426506360,
+            "quantity": 1
+          },
+          {
+            "id": 282660928,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 90,
+          "skill_id": 10
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1126921722,
             "quantity": 1
           },
@@ -42227,27 +42248,6 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1426506360,
-            "quantity": 1
-          },
-          {
-            "id": 282660928,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 90,
-          "skill_id": 10
         },
         "output_quantity": 1,
         "possibilities": {
@@ -50400,21 +50400,6 @@
       {
         "consumed_items": [
           {
-            "id": 1594744067,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1790099921,
             "quantity": 1
           }
@@ -50424,6 +50409,21 @@
           "skill_id": 6
         },
         "output_quantity": 5,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1594744067,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -50535,7 +50535,7 @@
       {
         "consumed_items": [
           {
-            "id": 2083532469,
+            "id": 963545550,
             "quantity": 1
           }
         ],
@@ -50550,7 +50550,7 @@
       {
         "consumed_items": [
           {
-            "id": 963545550,
+            "id": 2083532469,
             "quantity": 1
           }
         ],
@@ -50655,7 +50655,7 @@
       {
         "consumed_items": [
           {
-            "id": 1316254367,
+            "id": 323075828,
             "quantity": 1
           }
         ],
@@ -50670,7 +50670,7 @@
       {
         "consumed_items": [
           {
-            "id": 323075828,
+            "id": 1316254367,
             "quantity": 1
           }
         ],
@@ -50700,21 +50700,6 @@
       {
         "consumed_items": [
           {
-            "id": 1716871387,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 3,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1771174993,
             "quantity": 1
           }
@@ -50730,7 +50715,7 @@
       {
         "consumed_items": [
           {
-            "id": 1497143687,
+            "id": 1716871387,
             "quantity": 1
           }
         ],
@@ -50746,6 +50731,21 @@
         "consumed_items": [
           {
             "id": 259933928,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 3,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1497143687,
             "quantity": 1
           }
         ],
@@ -50850,21 +50850,6 @@
       {
         "consumed_items": [
           {
-            "id": 2145267328,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 83640847,
             "quantity": 1
           }
@@ -50880,7 +50865,7 @@
       {
         "consumed_items": [
           {
-            "id": 1871358332,
+            "id": 2145267328,
             "quantity": 1
           }
         ],
@@ -50896,6 +50881,21 @@
         "consumed_items": [
           {
             "id": 119486624,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1871358332,
             "quantity": 1
           }
         ],
@@ -51307,31 +51307,6 @@
       {
         "consumed_items": [
           {
-            "id": 1967285043,
-            "quantity": 1
-          },
-          {
-            "id": 1069959598,
-            "quantity": 15
-          },
-          {
-            "id": 1866006436,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1764692703,
             "quantity": 1
           },
@@ -51350,6 +51325,31 @@
         ],
         "level_requirements": {
           "level": 40,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1967285043,
+            "quantity": 1
+          },
+          {
+            "id": 1069959598,
+            "quantity": 15
+          },
+          {
+            "id": 1866006436,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -57608,7 +57608,7 @@
       {
         "consumed_items": [
           {
-            "id": 2131376186,
+            "id": 1622627516,
             "quantity": 1
           }
         ],
@@ -57623,7 +57623,7 @@
       {
         "consumed_items": [
           {
-            "id": 1622627516,
+            "id": 2131376186,
             "quantity": 1
           }
         ],
@@ -57818,21 +57818,6 @@
       {
         "consumed_items": [
           {
-            "id": 926760374,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 70255625,
             "quantity": 1
           }
@@ -57842,6 +57827,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 926760374,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -57998,7 +57998,7 @@
       {
         "consumed_items": [
           {
-            "id": 1572246248,
+            "id": 1683252275,
             "quantity": 1
           }
         ],
@@ -58013,7 +58013,7 @@
       {
         "consumed_items": [
           {
-            "id": 1683252275,
+            "id": 1572246248,
             "quantity": 1
           }
         ],
@@ -58388,7 +58388,7 @@
       {
         "consumed_items": [
           {
-            "id": 783907612,
+            "id": 851522677,
             "quantity": 1
           }
         ],
@@ -58403,7 +58403,7 @@
       {
         "consumed_items": [
           {
-            "id": 851522677,
+            "id": 783907612,
             "quantity": 1
           }
         ],
@@ -60421,27 +60421,6 @@
       {
         "consumed_items": [
           {
-            "id": 1981858022,
-            "quantity": 1
-          },
-          {
-            "id": 806992520,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 70,
-          "skill_id": 8
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 2125662488,
             "quantity": 1
           },
@@ -60457,6 +60436,27 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1981858022,
+            "quantity": 1
+          },
+          {
+            "id": 806992520,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 70,
+          "skill_id": 8
         },
         "output_quantity": 1,
         "possibilities": {
@@ -60909,7 +60909,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.5
+          "1": 17.0
         },
         "role": "producer"
       },
@@ -60926,7 +60926,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.0
+          "1": 17.5
         },
         "role": "producer"
       }
@@ -62576,6 +62576,31 @@
       {
         "consumed_items": [
           {
+            "id": 95049956,
+            "quantity": 1
+          },
+          {
+            "id": 296645870,
+            "quantity": 5
+          },
+          {
+            "id": 1014472344,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1902915299,
             "quantity": 1
           },
@@ -62594,31 +62619,6 @@
         ],
         "level_requirements": {
           "level": 30,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 95049956,
-            "quantity": 1
-          },
-          {
-            "id": 296645870,
-            "quantity": 5
-          },
-          {
-            "id": 1014472344,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -62711,6 +62711,35 @@
             "quantity": 1
           },
           {
+            "id": 1110015,
+            "quantity": 1
+          },
+          {
+            "id": 820437272,
+            "quantity": 1
+          },
+          {
+            "id": 3130002,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 80.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
             "id": 253606511,
             "quantity": 1
           },
@@ -62753,12 +62782,12 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 70,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 3230.0
+          "1": 12800.0
         },
         "role": "producer"
       },
@@ -62811,12 +62840,12 @@
           }
         ],
         "level_requirements": {
-          "level": 65,
+          "level": 60,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 12830.0
+          "1": 3230.0
         },
         "role": "producer"
       },
@@ -62840,41 +62869,12 @@
           }
         ],
         "level_requirements": {
-          "level": 70,
+          "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 12800.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 1110015,
-            "quantity": 1
-          },
-          {
-            "id": 820437272,
-            "quantity": 1
-          },
-          {
-            "id": 3130002,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 40,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 80.0
+          "1": 12830.0
         },
         "role": "producer"
       }
@@ -65697,7 +65697,7 @@
       {
         "consumed_items": [
           {
-            "id": 109923480,
+            "id": 1460019951,
             "quantity": 1
           }
         ],
@@ -65712,7 +65712,7 @@
       {
         "consumed_items": [
           {
-            "id": 1460019951,
+            "id": 109923480,
             "quantity": 1
           }
         ],
@@ -65757,7 +65757,7 @@
       {
         "consumed_items": [
           {
-            "id": 864212275,
+            "id": 1335384352,
             "quantity": 1
           }
         ],
@@ -65772,7 +65772,7 @@
       {
         "consumed_items": [
           {
-            "id": 1335384352,
+            "id": 864212275,
             "quantity": 1
           }
         ],
@@ -65922,21 +65922,6 @@
       {
         "consumed_items": [
           {
-            "id": 2059523634,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 750,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 70162827,
             "quantity": 1
           }
@@ -65946,6 +65931,21 @@
           "skill_id": 6
         },
         "output_quantity": 45,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 2059523634,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 750,
         "possibilities": {},
         "role": "producer"
       },
@@ -66177,7 +66177,7 @@
       {
         "consumed_items": [
           {
-            "id": 87520839,
+            "id": 147675237,
             "quantity": 1
           }
         ],
@@ -66192,7 +66192,7 @@
       {
         "consumed_items": [
           {
-            "id": 147675237,
+            "id": 87520839,
             "quantity": 1
           }
         ],
@@ -66222,7 +66222,7 @@
       {
         "consumed_items": [
           {
-            "id": 787682,
+            "id": 1183508390,
             "quantity": 1
           }
         ],
@@ -66237,7 +66237,7 @@
       {
         "consumed_items": [
           {
-            "id": 1183508390,
+            "id": 787682,
             "quantity": 1
           }
         ],
@@ -66522,21 +66522,6 @@
       {
         "consumed_items": [
           {
-            "id": 1477072395,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 45,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1628932837,
             "quantity": 1
           }
@@ -66552,7 +66537,7 @@
       {
         "consumed_items": [
           {
-            "id": 174222356,
+            "id": 1477072395,
             "quantity": 1
           }
         ],
@@ -66560,7 +66545,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 15,
+        "output_quantity": 45,
         "possibilities": {},
         "role": "producer"
       },
@@ -66576,6 +66561,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 174222356,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -66672,21 +66672,6 @@
       {
         "consumed_items": [
           {
-            "id": 256396301,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 5,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1645581584,
             "quantity": 1
           }
@@ -66696,6 +66681,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 256396301,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 5,
         "possibilities": {},
         "role": "producer"
       },
@@ -66912,7 +66912,7 @@
       {
         "consumed_items": [
           {
-            "id": 160784675,
+            "id": 1981858022,
             "quantity": 1
           }
         ],
@@ -66927,7 +66927,7 @@
       {
         "consumed_items": [
           {
-            "id": 1981858022,
+            "id": 160784675,
             "quantity": 1
           }
         ],
@@ -67017,7 +67017,7 @@
       {
         "consumed_items": [
           {
-            "id": 656747139,
+            "id": 1466357367,
             "quantity": 1
           }
         ],
@@ -67032,7 +67032,7 @@
       {
         "consumed_items": [
           {
-            "id": 1466357367,
+            "id": 656747139,
             "quantity": 1
           }
         ],
@@ -67302,7 +67302,7 @@
       {
         "consumed_items": [
           {
-            "id": 811057195,
+            "id": 2016631639,
             "quantity": 1
           }
         ],
@@ -67317,7 +67317,7 @@
       {
         "consumed_items": [
           {
-            "id": 2016631639,
+            "id": 811057195,
             "quantity": 1
           }
         ],
@@ -67437,7 +67437,7 @@
       {
         "consumed_items": [
           {
-            "id": 65688969,
+            "id": 1867643778,
             "quantity": 1
           }
         ],
@@ -67452,7 +67452,7 @@
       {
         "consumed_items": [
           {
-            "id": 1867643778,
+            "id": 65688969,
             "quantity": 1
           }
         ],
@@ -67701,7 +67701,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.5
+          "1": 17.0
         },
         "role": "producer"
       },
@@ -67718,7 +67718,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.0
+          "1": 17.5
         },
         "role": "producer"
       }
@@ -72460,7 +72460,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 19.0
+          "1": 20.0
         },
         "role": "producer"
       },
@@ -72477,7 +72477,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 20.0
+          "1": 19.0
         },
         "role": "producer"
       }
@@ -75121,7 +75121,7 @@
       {
         "consumed_items": [
           {
-            "id": 2092144742,
+            "id": 35090675,
             "quantity": 1
           }
         ],
@@ -75136,7 +75136,7 @@
       {
         "consumed_items": [
           {
-            "id": 35090675,
+            "id": 2092144742,
             "quantity": 1
           }
         ],
@@ -75181,7 +75181,7 @@
       {
         "consumed_items": [
           {
-            "id": 734102148,
+            "id": 1402663530,
             "quantity": 1
           }
         ],
@@ -75196,7 +75196,7 @@
       {
         "consumed_items": [
           {
-            "id": 1402663530,
+            "id": 734102148,
             "quantity": 1
           }
         ],
@@ -75226,7 +75226,7 @@
       {
         "consumed_items": [
           {
-            "id": 71690807,
+            "id": 1116436941,
             "quantity": 1
           }
         ],
@@ -75234,7 +75234,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 750,
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -75256,7 +75256,7 @@
       {
         "consumed_items": [
           {
-            "id": 1116436941,
+            "id": 71690807,
             "quantity": 1
           }
         ],
@@ -75264,7 +75264,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 150,
+        "output_quantity": 750,
         "possibilities": {},
         "role": "producer"
       },
@@ -75331,7 +75331,7 @@
       {
         "consumed_items": [
           {
-            "id": 1735049180,
+            "id": 1973404154,
             "quantity": 1
           }
         ],
@@ -75346,7 +75346,7 @@
       {
         "consumed_items": [
           {
-            "id": 1973404154,
+            "id": 1735049180,
             "quantity": 1
           }
         ],
@@ -75496,7 +75496,7 @@
       {
         "consumed_items": [
           {
-            "id": 2128345856,
+            "id": 97360478,
             "quantity": 1
           }
         ],
@@ -75511,7 +75511,7 @@
       {
         "consumed_items": [
           {
-            "id": 97360478,
+            "id": 2128345856,
             "quantity": 1
           }
         ],
@@ -75535,6 +75535,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1136686067,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -75571,22 +75586,7 @@
       {
         "consumed_items": [
           {
-            "id": 1136686067,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1047278345,
+            "id": 1022856890,
             "quantity": 1
           }
         ],
@@ -75601,7 +75601,7 @@
       {
         "consumed_items": [
           {
-            "id": 1022856890,
+            "id": 1047278345,
             "quantity": 1
           }
         ],
@@ -75661,21 +75661,6 @@
       {
         "consumed_items": [
           {
-            "id": 1927576181,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1917953521,
             "quantity": 1
           }
@@ -75685,6 +75670,21 @@
           "skill_id": 6
         },
         "output_quantity": 45,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1927576181,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -76021,21 +76021,6 @@
       {
         "consumed_items": [
           {
-            "id": 657471866,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 327065735,
             "quantity": 1
           }
@@ -76045,6 +76030,21 @@
           "skill_id": 6
         },
         "output_quantity": 5,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 657471866,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -76126,7 +76126,7 @@
       {
         "consumed_items": [
           {
-            "id": 930957245,
+            "id": 1833960329,
             "quantity": 1
           }
         ],
@@ -76141,7 +76141,22 @@
       {
         "consumed_items": [
           {
-            "id": 1833960329,
+            "id": 492777521,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 930957245,
             "quantity": 1
           }
         ],
@@ -76165,21 +76180,6 @@
           "skill_id": 6
         },
         "output_quantity": 5,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 492777521,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -76531,7 +76531,7 @@
       {
         "consumed_items": [
           {
-            "id": 1373398146,
+            "id": 1496183643,
             "quantity": 1
           }
         ],
@@ -76546,7 +76546,7 @@
       {
         "consumed_items": [
           {
-            "id": 1496183643,
+            "id": 1373398146,
             "quantity": 1
           }
         ],
@@ -76696,7 +76696,7 @@
       {
         "consumed_items": [
           {
-            "id": 129019878,
+            "id": 248609097,
             "quantity": 1
           }
         ],
@@ -76711,7 +76711,7 @@
       {
         "consumed_items": [
           {
-            "id": 248609097,
+            "id": 129019878,
             "quantity": 1
           }
         ],
@@ -80556,7 +80556,7 @@
       {
         "consumed_items": [
           {
-            "id": 2101136478,
+            "id": 1032219582,
             "quantity": 1
           }
         ],
@@ -80571,7 +80571,7 @@
       {
         "consumed_items": [
           {
-            "id": 1032219582,
+            "id": 2101136478,
             "quantity": 1
           }
         ],
@@ -80736,21 +80736,6 @@
       {
         "consumed_items": [
           {
-            "id": 853252142,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 45,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 31385178,
             "quantity": 1
           }
@@ -80760,6 +80745,21 @@
           "skill_id": 6
         },
         "output_quantity": 150,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 853252142,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 45,
         "possibilities": {},
         "role": "producer"
       },
@@ -80856,21 +80856,6 @@
       {
         "consumed_items": [
           {
-            "id": 1330465476,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1640228783,
             "quantity": 1
           }
@@ -80895,6 +80880,21 @@
           "skill_id": 6
         },
         "output_quantity": 45,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1330465476,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -80961,7 +80961,7 @@
       {
         "consumed_items": [
           {
-            "id": 1288044961,
+            "id": 1188906910,
             "quantity": 1
           }
         ],
@@ -80976,7 +80976,7 @@
       {
         "consumed_items": [
           {
-            "id": 1188906910,
+            "id": 1288044961,
             "quantity": 1
           }
         ],
@@ -81351,21 +81351,6 @@
       {
         "consumed_items": [
           {
-            "id": 1541107316,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1327243115,
             "quantity": 1
           }
@@ -81375,6 +81360,21 @@
           "skill_id": 6
         },
         "output_quantity": 5,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1541107316,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -81486,7 +81486,7 @@
       {
         "consumed_items": [
           {
-            "id": 1530912949,
+            "id": 840414886,
             "quantity": 1
           }
         ],
@@ -81501,7 +81501,7 @@
       {
         "consumed_items": [
           {
-            "id": 840414886,
+            "id": 1530912949,
             "quantity": 1
           }
         ],
@@ -81921,7 +81921,7 @@
       {
         "consumed_items": [
           {
-            "id": 1654157726,
+            "id": 1671660647,
             "quantity": 1
           }
         ],
@@ -81936,7 +81936,7 @@
       {
         "consumed_items": [
           {
-            "id": 1671660647,
+            "id": 1654157726,
             "quantity": 1
           }
         ],
@@ -82071,7 +82071,7 @@
       {
         "consumed_items": [
           {
-            "id": 1368641270,
+            "id": 795004148,
             "quantity": 1
           }
         ],
@@ -82086,7 +82086,7 @@
       {
         "consumed_items": [
           {
-            "id": 795004148,
+            "id": 1368641270,
             "quantity": 1
           }
         ],
@@ -82221,7 +82221,7 @@
       {
         "consumed_items": [
           {
-            "id": 2138810972,
+            "id": 1054319378,
             "quantity": 1
           }
         ],
@@ -82236,7 +82236,7 @@
       {
         "consumed_items": [
           {
-            "id": 1054319378,
+            "id": 2138810972,
             "quantity": 1
           }
         ],
@@ -82491,7 +82491,7 @@
       {
         "consumed_items": [
           {
-            "id": 882694419,
+            "id": 566693853,
             "quantity": 1
           }
         ],
@@ -82506,7 +82506,7 @@
       {
         "consumed_items": [
           {
-            "id": 566693853,
+            "id": 882694419,
             "quantity": 1
           }
         ],
@@ -87986,70 +87986,12 @@
           }
         ],
         "level_requirements": {
-          "level": 40,
+          "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 80.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          },
-          {
-            "id": 851232421,
-            "quantity": 1
-          },
-          {
-            "id": 1893904106,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 55,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 830.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          },
-          {
-            "id": 851232421,
-            "quantity": 1
-          },
-          {
-            "id": 1893904106,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 65,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 12830.0
+          "1": 230.0
         },
         "role": "producer"
       },
@@ -88102,12 +88044,70 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
+          "level": 55,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 230.0
+          "1": 830.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          },
+          {
+            "id": 851232421,
+            "quantity": 1
+          },
+          {
+            "id": 1893904106,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 80.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          },
+          {
+            "id": 851232421,
+            "quantity": 1
+          },
+          {
+            "id": 1893904106,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
+          "level": 65,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 12830.0
         },
         "role": "producer"
       }
@@ -88731,31 +88731,6 @@
       {
         "consumed_items": [
           {
-            "id": 1368641270,
-            "quantity": 1
-          },
-          {
-            "id": 35270576,
-            "quantity": 4
-          },
-          {
-            "id": 711364475,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 100,
-          "skill_id": 10
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.3
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1136046458,
             "quantity": 1
           },
@@ -88771,6 +88746,31 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.3
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1368641270,
+            "quantity": 1
+          },
+          {
+            "id": 35270576,
+            "quantity": 4
+          },
+          {
+            "id": 711364475,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 100,
+          "skill_id": 10
         },
         "output_quantity": 1,
         "possibilities": {
@@ -91147,12 +91147,33 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 55,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 8000.0
+          "1": 4000.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 50,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 2000.0
         },
         "role": "producer"
       },
@@ -91210,33 +91231,12 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
+          "level": 60,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 2000.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 55,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4000.0
+          "1": 8000.0
         },
         "role": "producer"
       }
@@ -93881,27 +93881,6 @@
       {
         "consumed_items": [
           {
-            "id": 536493745,
-            "quantity": 1
-          },
-          {
-            "id": 1610800379,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 70,
-          "skill_id": 10
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1297784035,
             "quantity": 1
           },
@@ -93917,6 +93896,27 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 536493745,
+            "quantity": 1
+          },
+          {
+            "id": 1610800379,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 70,
+          "skill_id": 10
         },
         "output_quantity": 1,
         "possibilities": {
@@ -95112,7 +95112,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 19.0
+          "1": 20.0
         },
         "role": "producer"
       },
@@ -95129,7 +95129,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 20.0
+          "1": 19.0
         },
         "role": "producer"
       }
@@ -100820,7 +100820,7 @@
       {
         "consumed_items": [
           {
-            "id": 639413153,
+            "id": 396103904,
             "quantity": 1
           }
         ],
@@ -100835,7 +100835,7 @@
       {
         "consumed_items": [
           {
-            "id": 396103904,
+            "id": 639413153,
             "quantity": 1
           }
         ],
@@ -101120,7 +101120,7 @@
       {
         "consumed_items": [
           {
-            "id": 1385921286,
+            "id": 1733486247,
             "quantity": 1
           }
         ],
@@ -101135,7 +101135,7 @@
       {
         "consumed_items": [
           {
-            "id": 1733486247,
+            "id": 1385921286,
             "quantity": 1
           }
         ],
@@ -101159,21 +101159,6 @@
           "skill_id": 6
         },
         "output_quantity": 500,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 115197730,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -101204,6 +101189,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 115197730,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -101480,7 +101480,7 @@
       {
         "consumed_items": [
           {
-            "id": 1119657353,
+            "id": 570309917,
             "quantity": 1
           }
         ],
@@ -101495,7 +101495,7 @@
       {
         "consumed_items": [
           {
-            "id": 570309917,
+            "id": 1119657353,
             "quantity": 1
           }
         ],
@@ -101660,7 +101660,7 @@
       {
         "consumed_items": [
           {
-            "id": 240995661,
+            "id": 728445804,
             "quantity": 1
           }
         ],
@@ -101675,7 +101675,7 @@
       {
         "consumed_items": [
           {
-            "id": 728445804,
+            "id": 240995661,
             "quantity": 1
           }
         ],
@@ -107403,21 +107403,6 @@
       {
         "consumed_items": [
           {
-            "id": 1590006700,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1430000035,
             "quantity": 1
           }
@@ -107427,6 +107412,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1590006700,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -112874,6 +112874,31 @@
       {
         "consumed_items": [
           {
+            "id": 849188348,
+            "quantity": 1
+          },
+          {
+            "id": 1059596756,
+            "quantity": 15
+          },
+          {
+            "id": 479733233,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1859973263,
             "quantity": 1
           },
@@ -112896,31 +112921,6 @@
         ],
         "level_requirements": {
           "level": 60,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 849188348,
-            "quantity": 1
-          },
-          {
-            "id": 1059596756,
-            "quantity": 15
-          },
-          {
-            "id": 479733233,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -113645,35 +113645,6 @@
             "quantity": 1
           },
           {
-            "id": 1110015,
-            "quantity": 1
-          },
-          {
-            "id": 820437272,
-            "quantity": 1
-          },
-          {
-            "id": 3130002,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 40,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 1000.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
             "id": 253606511,
             "quantity": 1
           },
@@ -113687,12 +113658,12 @@
           }
         ],
         "level_requirements": {
-          "level": 65,
+          "level": 60,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 16000.0
+          "1": 8000.0
         },
         "role": "producer"
       },
@@ -113745,12 +113716,41 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 8000.0
+          "1": 16000.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 1110015,
+            "quantity": 1
+          },
+          {
+            "id": 820437272,
+            "quantity": 1
+          },
+          {
+            "id": 3130002,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 1000.0
         },
         "role": "producer"
       }
@@ -115183,12 +115183,12 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 64.0
+          "1": 256.0
         },
         "role": "producer"
       },
@@ -115204,12 +115204,12 @@
           }
         ],
         "level_requirements": {
-          "level": 65,
+          "level": 70,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 256.0
+          "1": 1.0
         },
         "role": "producer"
       },
@@ -115246,27 +115246,6 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
           "level": 55,
           "skill_id": 13
         },
@@ -115288,12 +115267,33 @@
           }
         ],
         "level_requirements": {
-          "level": 70,
+          "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 1.0
+          "1": 4.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 60,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 64.0
         },
         "role": "producer"
       }
@@ -116922,31 +116922,6 @@
       {
         "consumed_items": [
           {
-            "id": 1221689084,
-            "quantity": 1
-          },
-          {
-            "id": 1069959598,
-            "quantity": 15
-          },
-          {
-            "id": 1866006436,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1138711883,
             "quantity": 1
           },
@@ -116969,6 +116944,31 @@
         ],
         "level_requirements": {
           "level": 40,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1221689084,
+            "quantity": 1
+          },
+          {
+            "id": 1069959598,
+            "quantity": 15
+          },
+          {
+            "id": 1866006436,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -117174,70 +117174,41 @@
           }
         ],
         "level_requirements": {
+          "level": 60,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 8000.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          },
+          {
+            "id": 851232421,
+            "quantity": 1
+          },
+          {
+            "id": 1893904106,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
           "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
           "1": 2000.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          },
-          {
-            "id": 851232421,
-            "quantity": 1
-          },
-          {
-            "id": 1893904106,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 40,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 1000.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          },
-          {
-            "id": 851232421,
-            "quantity": 1
-          },
-          {
-            "id": 1893904106,
-            "quantity": 5
-          }
-        ],
-        "level_requirements": {
-          "level": 55,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4000.0
         },
         "role": "producer"
       },
@@ -117290,12 +117261,41 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 55,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 8000.0
+          "1": 4000.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          },
+          {
+            "id": 851232421,
+            "quantity": 1
+          },
+          {
+            "id": 1893904106,
+            "quantity": 5
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 1000.0
         },
         "role": "producer"
       }
@@ -117795,7 +117795,7 @@
       {
         "consumed_items": [
           {
-            "id": 282882254,
+            "id": 1565007683,
             "quantity": 1
           }
         ],
@@ -117810,7 +117810,7 @@
       {
         "consumed_items": [
           {
-            "id": 1565007683,
+            "id": 282882254,
             "quantity": 1
           }
         ],
@@ -117945,7 +117945,7 @@
       {
         "consumed_items": [
           {
-            "id": 657331360,
+            "id": 265703470,
             "quantity": 1
           }
         ],
@@ -117960,7 +117960,7 @@
       {
         "consumed_items": [
           {
-            "id": 265703470,
+            "id": 657331360,
             "quantity": 1
           }
         ],
@@ -118305,7 +118305,7 @@
       {
         "consumed_items": [
           {
-            "id": 1908038292,
+            "id": 217088790,
             "quantity": 1
           }
         ],
@@ -118320,7 +118320,7 @@
       {
         "consumed_items": [
           {
-            "id": 217088790,
+            "id": 1908038292,
             "quantity": 1
           }
         ],
@@ -118440,7 +118440,7 @@
       {
         "consumed_items": [
           {
-            "id": 1491113278,
+            "id": 270820549,
             "quantity": 1
           }
         ],
@@ -118455,7 +118455,7 @@
       {
         "consumed_items": [
           {
-            "id": 270820549,
+            "id": 1491113278,
             "quantity": 1
           }
         ],
@@ -122379,7 +122379,7 @@
       {
         "consumed_items": [
           {
-            "id": 590784125,
+            "id": 209149529,
             "quantity": 1
           }
         ],
@@ -122394,7 +122394,7 @@
       {
         "consumed_items": [
           {
-            "id": 209149529,
+            "id": 590784125,
             "quantity": 1
           }
         ],
@@ -122559,21 +122559,6 @@
       {
         "consumed_items": [
           {
-            "id": 948749878,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1839928237,
             "quantity": 1
           }
@@ -122583,6 +122568,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 948749878,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -123259,27 +123259,6 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 242.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
           "level": 55,
           "skill_id": 13
         },
@@ -123301,12 +123280,54 @@
           }
         ],
         "level_requirements": {
+          "level": 70,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 1.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
           "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
           "1": 13598.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 50,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 242.0
         },
         "role": "producer"
       },
@@ -123349,27 +123370,6 @@
         "output_quantity": 1,
         "possibilities": {
           "1": 3422.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 70,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 1.0
         },
         "role": "producer"
       }
@@ -127236,7 +127236,7 @@
       {
         "consumed_items": [
           {
-            "id": 116980324,
+            "id": 1398272110,
             "quantity": 1
           }
         ],
@@ -127251,7 +127251,7 @@
       {
         "consumed_items": [
           {
-            "id": 1398272110,
+            "id": 116980324,
             "quantity": 1
           }
         ],
@@ -129515,7 +129515,7 @@
       {
         "consumed_items": [
           {
-            "id": 54671513,
+            "id": 2035915313,
             "quantity": 1
           }
         ],
@@ -129530,7 +129530,7 @@
       {
         "consumed_items": [
           {
-            "id": 2035915313,
+            "id": 54671513,
             "quantity": 1
           }
         ],
@@ -129950,7 +129950,7 @@
       {
         "consumed_items": [
           {
-            "id": 1460999060,
+            "id": 623683709,
             "quantity": 1
           }
         ],
@@ -129965,7 +129965,7 @@
       {
         "consumed_items": [
           {
-            "id": 623683709,
+            "id": 1460999060,
             "quantity": 1
           }
         ],
@@ -130422,7 +130422,7 @@
       {
         "consumed_items": [
           {
-            "id": 1103880848,
+            "id": 134252987,
             "quantity": 1
           }
         ],
@@ -130437,7 +130437,7 @@
       {
         "consumed_items": [
           {
-            "id": 134252987,
+            "id": 1103880848,
             "quantity": 1
           }
         ],
@@ -130542,21 +130542,6 @@
       {
         "consumed_items": [
           {
-            "id": 1956290361,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1971419019,
             "quantity": 1
           }
@@ -130572,7 +130557,7 @@
       {
         "consumed_items": [
           {
-            "id": 1133136157,
+            "id": 1956290361,
             "quantity": 1
           }
         ],
@@ -130580,7 +130565,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 15,
+        "output_quantity": 150,
         "possibilities": {},
         "role": "producer"
       },
@@ -130596,6 +130581,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1133136157,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -131794,7 +131794,7 @@
       {
         "consumed_items": [
           {
-            "id": 1226421648,
+            "id": 597402027,
             "quantity": 1
           }
         ],
@@ -131809,7 +131809,7 @@
       {
         "consumed_items": [
           {
-            "id": 597402027,
+            "id": 1226421648,
             "quantity": 1
           }
         ],
@@ -131944,7 +131944,7 @@
       {
         "consumed_items": [
           {
-            "id": 806412926,
+            "id": 2126575163,
             "quantity": 1
           }
         ],
@@ -131959,7 +131959,7 @@
       {
         "consumed_items": [
           {
-            "id": 2126575163,
+            "id": 806412926,
             "quantity": 1
           }
         ],
@@ -132214,21 +132214,6 @@
       {
         "consumed_items": [
           {
-            "id": 1686147002,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 2029393298,
             "quantity": 1
           }
@@ -132238,6 +132223,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1686147002,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -132319,6 +132319,21 @@
       {
         "consumed_items": [
           {
+            "id": 758629890,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 75,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1847526197,
             "quantity": 1
           }
@@ -132343,21 +132358,6 @@
           "skill_id": 6
         },
         "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 758629890,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 75,
         "possibilities": {},
         "role": "producer"
       },
@@ -132424,21 +132424,6 @@
       {
         "consumed_items": [
           {
-            "id": 1139617338,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 666999081,
             "quantity": 1
           }
@@ -132448,6 +132433,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1139617338,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -132634,7 +132634,7 @@
       {
         "consumed_items": [
           {
-            "id": 605809785,
+            "id": 441797484,
             "quantity": 1
           }
         ],
@@ -132649,7 +132649,7 @@
       {
         "consumed_items": [
           {
-            "id": 441797484,
+            "id": 605809785,
             "quantity": 1
           }
         ],
@@ -132679,7 +132679,7 @@
       {
         "consumed_items": [
           {
-            "id": 1814175072,
+            "id": 1242370395,
             "quantity": 1
           }
         ],
@@ -132694,7 +132694,7 @@
       {
         "consumed_items": [
           {
-            "id": 1242370395,
+            "id": 1814175072,
             "quantity": 1
           }
         ],
@@ -132904,7 +132904,7 @@
       {
         "consumed_items": [
           {
-            "id": 869310266,
+            "id": 1714839251,
             "quantity": 1
           }
         ],
@@ -132919,7 +132919,7 @@
       {
         "consumed_items": [
           {
-            "id": 1714839251,
+            "id": 869310266,
             "quantity": 1
           }
         ],
@@ -134342,7 +134342,7 @@
       {
         "consumed_items": [
           {
-            "id": 1818981310,
+            "id": 270646609,
             "quantity": 1
           }
         ],
@@ -134357,7 +134357,7 @@
       {
         "consumed_items": [
           {
-            "id": 270646609,
+            "id": 1818981310,
             "quantity": 1
           }
         ],
@@ -134417,7 +134417,7 @@
       {
         "consumed_items": [
           {
-            "id": 1357163910,
+            "id": 703313133,
             "quantity": 1
           }
         ],
@@ -134425,7 +134425,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 50,
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -134447,7 +134447,7 @@
       {
         "consumed_items": [
           {
-            "id": 703313133,
+            "id": 1357163910,
             "quantity": 1
           }
         ],
@@ -134455,7 +134455,7 @@
           "level": 1,
           "skill_id": 6
         },
-        "output_quantity": 15,
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -134537,6 +134537,21 @@
       {
         "consumed_items": [
           {
+            "id": 1907385327,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1431558369,
             "quantity": 1
           }
@@ -134553,21 +134568,6 @@
         "consumed_items": [
           {
             "id": 1762935714,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1907385327,
             "quantity": 1
           }
         ],
@@ -134657,21 +134657,6 @@
       {
         "consumed_items": [
           {
-            "id": 1239362512,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1908450289,
             "quantity": 1
           }
@@ -134681,6 +134666,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1239362512,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -134957,7 +134957,7 @@
       {
         "consumed_items": [
           {
-            "id": 611828737,
+            "id": 1176307099,
             "quantity": 1
           }
         ],
@@ -134972,7 +134972,7 @@
       {
         "consumed_items": [
           {
-            "id": 1176307099,
+            "id": 611828737,
             "quantity": 1
           }
         ],
@@ -135092,7 +135092,7 @@
       {
         "consumed_items": [
           {
-            "id": 1732455557,
+            "id": 1297008737,
             "quantity": 1
           }
         ],
@@ -135107,7 +135107,7 @@
       {
         "consumed_items": [
           {
-            "id": 1297008737,
+            "id": 1732455557,
             "quantity": 1
           }
         ],
@@ -135137,7 +135137,7 @@
       {
         "consumed_items": [
           {
-            "id": 133998348,
+            "id": 495177528,
             "quantity": 1
           }
         ],
@@ -135152,7 +135152,7 @@
       {
         "consumed_items": [
           {
-            "id": 495177528,
+            "id": 133998348,
             "quantity": 1
           }
         ],
@@ -140067,7 +140067,7 @@
       {
         "consumed_items": [
           {
-            "id": 685138200,
+            "id": 223672560,
             "quantity": 1
           }
         ],
@@ -140082,7 +140082,7 @@
       {
         "consumed_items": [
           {
-            "id": 223672560,
+            "id": 685138200,
             "quantity": 1
           }
         ],
@@ -140232,7 +140232,7 @@
       {
         "consumed_items": [
           {
-            "id": 280268323,
+            "id": 882022228,
             "quantity": 1
           }
         ],
@@ -140247,7 +140247,7 @@
       {
         "consumed_items": [
           {
-            "id": 882022228,
+            "id": 280268323,
             "quantity": 1
           }
         ],
@@ -140457,7 +140457,7 @@
       {
         "consumed_items": [
           {
-            "id": 2124079079,
+            "id": 1930789220,
             "quantity": 1
           }
         ],
@@ -140472,7 +140472,7 @@
       {
         "consumed_items": [
           {
-            "id": 1930789220,
+            "id": 2124079079,
             "quantity": 1
           }
         ],
@@ -145182,6 +145182,35 @@
           }
         ],
         "level_requirements": {
+          "level": 55,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 4000.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 1110015,
+            "quantity": 1
+          },
+          {
+            "id": 1686751445,
+            "quantity": 10
+          },
+          {
+            "id": 1893904106,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
           "level": 50,
           "skill_id": 13
         },
@@ -145217,35 +145246,6 @@
         "output_quantity": 1,
         "possibilities": {
           "1": 1000.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 1110015,
-            "quantity": 1
-          },
-          {
-            "id": 1686751445,
-            "quantity": 10
-          },
-          {
-            "id": 1893904106,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 55,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4000.0
         },
         "role": "producer"
       },
@@ -147731,6 +147731,27 @@
       {
         "consumed_items": [
           {
+            "id": 687015665,
+            "quantity": 1
+          },
+          {
+            "id": 4070004,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 8
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.3
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1576306916,
             "quantity": 1
           },
@@ -147746,27 +147767,6 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.3
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 687015665,
-            "quantity": 1
-          },
-          {
-            "id": 4070004,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 40,
-          "skill_id": 8
         },
         "output_quantity": 1,
         "possibilities": {
@@ -149351,6 +149351,31 @@
       {
         "consumed_items": [
           {
+            "id": 885073183,
+            "quantity": 1
+          },
+          {
+            "id": 64403396,
+            "quantity": 30
+          },
+          {
+            "id": 1639666736,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.0375
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 461922586,
             "quantity": 1
           },
@@ -149373,31 +149398,6 @@
         ],
         "level_requirements": {
           "level": 70,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.0375
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 885073183,
-            "quantity": 1
-          },
-          {
-            "id": 64403396,
-            "quantity": 30
-          },
-          {
-            "id": 1639666736,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -150959,6 +150959,27 @@
       {
         "consumed_items": [
           {
+            "id": 123655756,
+            "quantity": 1
+          },
+          {
+            "id": 806992520,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 70,
+          "skill_id": 8
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.3
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1639525324,
             "quantity": 1
           },
@@ -150974,27 +150995,6 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.3
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 123655756,
-            "quantity": 1
-          },
-          {
-            "id": 806992520,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 70,
-          "skill_id": 8
         },
         "output_quantity": 1,
         "possibilities": {
@@ -155323,7 +155323,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.5
+          "1": 17.0
         },
         "role": "producer"
       },
@@ -155340,7 +155340,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.0
+          "1": 17.5
         },
         "role": "producer"
       }
@@ -156227,7 +156227,7 @@
       {
         "consumed_items": [
           {
-            "id": 1431325923,
+            "id": 2114109357,
             "quantity": 1
           }
         ],
@@ -156242,7 +156242,7 @@
       {
         "consumed_items": [
           {
-            "id": 2114109357,
+            "id": 1431325923,
             "quantity": 1
           }
         ],
@@ -156482,7 +156482,7 @@
       {
         "consumed_items": [
           {
-            "id": 247928248,
+            "id": 249869053,
             "quantity": 1
           }
         ],
@@ -156497,7 +156497,7 @@
       {
         "consumed_items": [
           {
-            "id": 249869053,
+            "id": 247928248,
             "quantity": 1
           }
         ],
@@ -156632,21 +156632,6 @@
       {
         "consumed_items": [
           {
-            "id": 1654952717,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1911943829,
             "quantity": 1
           }
@@ -156662,7 +156647,7 @@
       {
         "consumed_items": [
           {
-            "id": 1409596491,
+            "id": 1654952717,
             "quantity": 1
           }
         ],
@@ -156678,6 +156663,21 @@
         "consumed_items": [
           {
             "id": 763048785,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1409596491,
             "quantity": 1
           }
         ],
@@ -159877,64 +159877,6 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 230.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 1110015,
-            "quantity": 1
-          },
-          {
-            "id": 1686751445,
-            "quantity": 10
-          },
-          {
-            "id": 1893904106,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 65,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 12830.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 1110015,
-            "quantity": 1
-          },
-          {
-            "id": 1686751445,
-            "quantity": 10
-          },
-          {
-            "id": 1893904106,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
           "level": 70,
           "skill_id": 13
         },
@@ -159993,12 +159935,12 @@
           }
         ],
         "level_requirements": {
-          "level": 40,
+          "level": 60,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 80.0
+          "1": 3230.0
         },
         "role": "producer"
       },
@@ -160022,12 +159964,70 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 3230.0
+          "1": 230.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 1110015,
+            "quantity": 1
+          },
+          {
+            "id": 1686751445,
+            "quantity": 10
+          },
+          {
+            "id": 1893904106,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 65,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 12830.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 1110015,
+            "quantity": 1
+          },
+          {
+            "id": 1686751445,
+            "quantity": 10
+          },
+          {
+            "id": 1893904106,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 40,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 80.0
         },
         "role": "producer"
       }
@@ -160663,12 +160663,12 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 64.0
+          "1": 256.0
         },
         "role": "producer"
       },
@@ -160684,12 +160684,12 @@
           }
         ],
         "level_requirements": {
-          "level": 65,
+          "level": 70,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 256.0
+          "1": 1.0
         },
         "role": "producer"
       },
@@ -160726,27 +160726,6 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
           "level": 55,
           "skill_id": 13
         },
@@ -160768,12 +160747,33 @@
           }
         ],
         "level_requirements": {
-          "level": 70,
+          "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 1.0
+          "1": 4.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 60,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 64.0
         },
         "role": "producer"
       }
@@ -161349,31 +161349,6 @@
       {
         "consumed_items": [
           {
-            "id": 2077008468,
-            "quantity": 1
-          },
-          {
-            "id": 1314601698,
-            "quantity": 9
-          },
-          {
-            "id": 782755200,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.3
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1919532147,
             "quantity": 1
           },
@@ -161388,6 +161363,31 @@
         ],
         "level_requirements": {
           "level": 20,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.3
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 2077008468,
+            "quantity": 1
+          },
+          {
+            "id": 1314601698,
+            "quantity": 9
+          },
+          {
+            "id": 782755200,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -161683,7 +161683,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 19.0
+          "1": 20.0
         },
         "role": "producer"
       },
@@ -161700,7 +161700,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 20.0
+          "1": 19.0
         },
         "role": "producer"
       }
@@ -165307,7 +165307,7 @@
       {
         "consumed_items": [
           {
-            "id": 1680521255,
+            "id": 1835535401,
             "quantity": 1
           }
         ],
@@ -165322,7 +165322,7 @@
       {
         "consumed_items": [
           {
-            "id": 1835535401,
+            "id": 1680521255,
             "quantity": 1
           }
         ],
@@ -165487,7 +165487,7 @@
       {
         "consumed_items": [
           {
-            "id": 934415342,
+            "id": 1801762163,
             "quantity": 1
           }
         ],
@@ -165502,7 +165502,7 @@
       {
         "consumed_items": [
           {
-            "id": 1801762163,
+            "id": 934415342,
             "quantity": 1
           }
         ],
@@ -165547,7 +165547,7 @@
       {
         "consumed_items": [
           {
-            "id": 400329678,
+            "id": 1146247635,
             "quantity": 1
           }
         ],
@@ -165562,7 +165562,7 @@
       {
         "consumed_items": [
           {
-            "id": 1146247635,
+            "id": 400329678,
             "quantity": 1
           }
         ],
@@ -165637,7 +165637,7 @@
       {
         "consumed_items": [
           {
-            "id": 220255993,
+            "id": 1652244922,
             "quantity": 1
           }
         ],
@@ -165652,7 +165652,7 @@
       {
         "consumed_items": [
           {
-            "id": 1652244922,
+            "id": 220255993,
             "quantity": 1
           }
         ],
@@ -165772,36 +165772,6 @@
       {
         "consumed_items": [
           {
-            "id": 435908661,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 150,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 2070915659,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 750,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1401990945,
             "quantity": 1
           }
@@ -165832,6 +165802,21 @@
       {
         "consumed_items": [
           {
+            "id": 2070915659,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 750,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 59409290,
             "quantity": 1
           }
@@ -165847,7 +165832,22 @@
       {
         "consumed_items": [
           {
-            "id": 1912120993,
+            "id": 435908661,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 150,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1744723522,
             "quantity": 1
           }
         ],
@@ -165862,7 +165862,7 @@
       {
         "consumed_items": [
           {
-            "id": 1744723522,
+            "id": 1912120993,
             "quantity": 1
           }
         ],
@@ -166027,21 +166027,6 @@
       {
         "consumed_items": [
           {
-            "id": 731286772,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 45,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 676724672,
             "quantity": 1
           }
@@ -166051,6 +166036,21 @@
           "skill_id": 6
         },
         "output_quantity": 150,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 731286772,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 45,
         "possibilities": {},
         "role": "producer"
       },
@@ -166282,6 +166282,21 @@
       {
         "consumed_items": [
           {
+            "id": 1964571781,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1941851008,
             "quantity": 1
           }
@@ -166297,7 +166312,22 @@
       {
         "consumed_items": [
           {
-            "id": 1964571781,
+            "id": 60984074,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 5,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1461958781,
             "quantity": 1
           }
         ],
@@ -166321,36 +166351,6 @@
           "skill_id": 6
         },
         "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1461958781,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 60984074,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 5,
         "possibilities": {},
         "role": "producer"
       },
@@ -166417,7 +166417,7 @@
       {
         "consumed_items": [
           {
-            "id": 667935943,
+            "id": 1769204878,
             "quantity": 1
           }
         ],
@@ -166447,7 +166447,7 @@
       {
         "consumed_items": [
           {
-            "id": 1769204878,
+            "id": 667935943,
             "quantity": 1
           }
         ],
@@ -166492,7 +166492,7 @@
       {
         "consumed_items": [
           {
-            "id": 1561194862,
+            "id": 1690374580,
             "quantity": 1
           }
         ],
@@ -166507,7 +166507,7 @@
       {
         "consumed_items": [
           {
-            "id": 1690374580,
+            "id": 1561194862,
             "quantity": 1
           }
         ],
@@ -166687,7 +166687,7 @@
       {
         "consumed_items": [
           {
-            "id": 974936435,
+            "id": 395288618,
             "quantity": 1
           }
         ],
@@ -166702,7 +166702,7 @@
       {
         "consumed_items": [
           {
-            "id": 395288618,
+            "id": 974936435,
             "quantity": 1
           }
         ],
@@ -167062,7 +167062,7 @@
       {
         "consumed_items": [
           {
-            "id": 772551420,
+            "id": 1320364860,
             "quantity": 1
           }
         ],
@@ -167077,7 +167077,7 @@
       {
         "consumed_items": [
           {
-            "id": 1320364860,
+            "id": 772551420,
             "quantity": 1
           }
         ],
@@ -167152,7 +167152,7 @@
       {
         "consumed_items": [
           {
-            "id": 1474288184,
+            "id": 793832906,
             "quantity": 1
           }
         ],
@@ -167167,7 +167167,7 @@
       {
         "consumed_items": [
           {
-            "id": 793832906,
+            "id": 1474288184,
             "quantity": 1
           }
         ],
@@ -171085,31 +171085,6 @@
       {
         "consumed_items": [
           {
-            "id": 1398781822,
-            "quantity": 1
-          },
-          {
-            "id": 585466639,
-            "quantity": 75
-          },
-          {
-            "id": 1047477197,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 635716894,
             "quantity": 1
           },
@@ -171125,6 +171100,31 @@
         "level_requirements": {
           "level": 90,
           "skill_id": 10
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1398781822,
+            "quantity": 1
+          },
+          {
+            "id": 585466639,
+            "quantity": 75
+          },
+          {
+            "id": 1047477197,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
         },
         "output_quantity": 1,
         "possibilities": {
@@ -178121,7 +178121,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 19.0
+          "1": 20.0
         },
         "role": "producer"
       },
@@ -178138,7 +178138,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 20.0
+          "1": 19.0
         },
         "role": "producer"
       }
@@ -178888,27 +178888,6 @@
       {
         "consumed_items": [
           {
-            "id": 751947139,
-            "quantity": 1
-          },
-          {
-            "id": 711364475,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 100,
-          "skill_id": 8
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.0375
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1826672257,
             "quantity": 1
           },
@@ -178924,6 +178903,27 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.0375
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 751947139,
+            "quantity": 1
+          },
+          {
+            "id": 711364475,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 100,
+          "skill_id": 8
         },
         "output_quantity": 1,
         "possibilities": {
@@ -180762,31 +180762,6 @@
       {
         "consumed_items": [
           {
-            "id": 610943774,
-            "quantity": 1
-          },
-          {
-            "id": 1720157429,
-            "quantity": 150
-          },
-          {
-            "id": 1639666736,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.0375
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1168475144,
             "quantity": 1
           },
@@ -180802,6 +180777,31 @@
         "level_requirements": {
           "level": 70,
           "skill_id": 8
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.0375
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 610943774,
+            "quantity": 1
+          },
+          {
+            "id": 1720157429,
+            "quantity": 150
+          },
+          {
+            "id": 1639666736,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
         },
         "output_quantity": 1,
         "possibilities": {
@@ -183216,7 +183216,7 @@
       {
         "consumed_items": [
           {
-            "id": 683322490,
+            "id": 1044047269,
             "quantity": 1
           }
         ],
@@ -183231,7 +183231,7 @@
       {
         "consumed_items": [
           {
-            "id": 1044047269,
+            "id": 683322490,
             "quantity": 1
           }
         ],
@@ -183321,7 +183321,7 @@
       {
         "consumed_items": [
           {
-            "id": 1545844636,
+            "id": 292695634,
             "quantity": 1
           }
         ],
@@ -183336,7 +183336,7 @@
       {
         "consumed_items": [
           {
-            "id": 292695634,
+            "id": 1545844636,
             "quantity": 1
           }
         ],
@@ -183366,7 +183366,7 @@
       {
         "consumed_items": [
           {
-            "id": 543576414,
+            "id": 1911572067,
             "quantity": 1
           }
         ],
@@ -183396,7 +183396,7 @@
       {
         "consumed_items": [
           {
-            "id": 1911572067,
+            "id": 543576414,
             "quantity": 1
           }
         ],
@@ -183621,21 +183621,6 @@
       {
         "consumed_items": [
           {
-            "id": 1795603932,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 793975188,
             "quantity": 1
           }
@@ -183645,6 +183630,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1795603932,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -184116,7 +184116,7 @@
       {
         "consumed_items": [
           {
-            "id": 688829506,
+            "id": 1297341889,
             "quantity": 1
           }
         ],
@@ -184131,7 +184131,7 @@
       {
         "consumed_items": [
           {
-            "id": 1297341889,
+            "id": 688829506,
             "quantity": 1
           }
         ],
@@ -189674,31 +189674,6 @@
       {
         "consumed_items": [
           {
-            "id": 1950412037,
-            "quantity": 1
-          },
-          {
-            "id": 2069757207,
-            "quantity": 5
-          },
-          {
-            "id": 35270576,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 100,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 442283306,
             "quantity": 1
           },
@@ -189713,6 +189688,31 @@
         ],
         "level_requirements": {
           "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1950412037,
+            "quantity": 1
+          },
+          {
+            "id": 2069757207,
+            "quantity": 5
+          },
+          {
+            "id": 35270576,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 100,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -192003,31 +192003,6 @@
       {
         "consumed_items": [
           {
-            "id": 975181088,
-            "quantity": 1
-          },
-          {
-            "id": 1069959598,
-            "quantity": 15
-          },
-          {
-            "id": 1866006436,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.3
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1790099921,
             "quantity": 1
           },
@@ -192043,6 +192018,31 @@
         "level_requirements": {
           "level": 40,
           "skill_id": 8
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.3
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 975181088,
+            "quantity": 1
+          },
+          {
+            "id": 1069959598,
+            "quantity": 15
+          },
+          {
+            "id": 1866006436,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
         },
         "output_quantity": 1,
         "possibilities": {
@@ -193386,27 +193386,6 @@
       {
         "consumed_items": [
           {
-            "id": 13906573,
-            "quantity": 1
-          },
-          {
-            "id": 3050001,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 30,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 81763531,
             "quantity": 1
           },
@@ -193421,6 +193400,27 @@
         ],
         "level_requirements": {
           "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 13906573,
+            "quantity": 1
+          },
+          {
+            "id": 3050001,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 30,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -198534,7 +198534,7 @@
       {
         "consumed_items": [
           {
-            "id": 682205131,
+            "id": 391332160,
             "quantity": 1
           }
         ],
@@ -198549,7 +198549,7 @@
       {
         "consumed_items": [
           {
-            "id": 391332160,
+            "id": 682205131,
             "quantity": 1
           }
         ],
@@ -198789,7 +198789,7 @@
       {
         "consumed_items": [
           {
-            "id": 1815455360,
+            "id": 1762018229,
             "quantity": 1
           }
         ],
@@ -198804,7 +198804,7 @@
       {
         "consumed_items": [
           {
-            "id": 1762018229,
+            "id": 1815455360,
             "quantity": 1
           }
         ],
@@ -198894,21 +198894,6 @@
       {
         "consumed_items": [
           {
-            "id": 182711809,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 75,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 143173239,
             "quantity": 1
           }
@@ -198918,6 +198903,21 @@
           "skill_id": 6
         },
         "output_quantity": 50,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 182711809,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 75,
         "possibilities": {},
         "role": "producer"
       },
@@ -199314,7 +199314,7 @@
       {
         "consumed_items": [
           {
-            "id": 1539382157,
+            "id": 163977632,
             "quantity": 1
           }
         ],
@@ -199329,7 +199329,7 @@
       {
         "consumed_items": [
           {
-            "id": 163977632,
+            "id": 1539382157,
             "quantity": 1
           }
         ],
@@ -199584,21 +199584,6 @@
       {
         "consumed_items": [
           {
-            "id": 1428879158,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 750,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1363779537,
             "quantity": 1
           }
@@ -199608,6 +199593,21 @@
           "skill_id": 6
         },
         "output_quantity": 150,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1428879158,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 750,
         "possibilities": {},
         "role": "producer"
       },
@@ -199794,21 +199794,6 @@
       {
         "consumed_items": [
           {
-            "id": 752865410,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 15,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 516841544,
             "quantity": 1
           }
@@ -199818,6 +199803,21 @@
           "skill_id": 6
         },
         "output_quantity": 5,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 752865410,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 15,
         "possibilities": {},
         "role": "producer"
       },
@@ -199989,7 +199989,7 @@
       {
         "consumed_items": [
           {
-            "id": 1297784035,
+            "id": 594039952,
             "quantity": 1
           }
         ],
@@ -200004,7 +200004,7 @@
       {
         "consumed_items": [
           {
-            "id": 594039952,
+            "id": 1297784035,
             "quantity": 1
           }
         ],
@@ -200034,21 +200034,6 @@
       {
         "consumed_items": [
           {
-            "id": 1796533285,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 5,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 165877069,
             "quantity": 1
           }
@@ -200058,6 +200043,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1796533285,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 5,
         "possibilities": {},
         "role": "producer"
       },
@@ -200184,7 +200184,7 @@
       {
         "consumed_items": [
           {
-            "id": 1365299920,
+            "id": 1305569809,
             "quantity": 1
           }
         ],
@@ -200199,7 +200199,7 @@
       {
         "consumed_items": [
           {
-            "id": 1305569809,
+            "id": 1365299920,
             "quantity": 1
           }
         ],
@@ -200259,7 +200259,7 @@
       {
         "consumed_items": [
           {
-            "id": 1553290400,
+            "id": 331613165,
             "quantity": 1
           }
         ],
@@ -200274,7 +200274,7 @@
       {
         "consumed_items": [
           {
-            "id": 331613165,
+            "id": 1553290400,
             "quantity": 1
           }
         ],
@@ -201353,6 +201353,31 @@
       {
         "consumed_items": [
           {
+            "id": 1225395069,
+            "quantity": 1
+          },
+          {
+            "id": 64403396,
+            "quantity": 50
+          },
+          {
+            "id": 1639666736,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.01875
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1956290361,
             "quantity": 1
           },
@@ -201375,31 +201400,6 @@
         ],
         "level_requirements": {
           "level": 70,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.01875
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1225395069,
-            "quantity": 1
-          },
-          {
-            "id": 64403396,
-            "quantity": 50
-          },
-          {
-            "id": 1639666736,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -202462,7 +202462,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.5
+          "1": 17.0
         },
         "role": "producer"
       },
@@ -202479,7 +202479,7 @@
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 17.0
+          "1": 17.5
         },
         "role": "producer"
       }
@@ -206105,7 +206105,7 @@
       {
         "consumed_items": [
           {
-            "id": 453408860,
+            "id": 1338046652,
             "quantity": 1
           }
         ],
@@ -206120,7 +206120,7 @@
       {
         "consumed_items": [
           {
-            "id": 1338046652,
+            "id": 453408860,
             "quantity": 1
           }
         ],
@@ -206195,7 +206195,7 @@
       {
         "consumed_items": [
           {
-            "id": 711847037,
+            "id": 1703771822,
             "quantity": 1
           }
         ],
@@ -206210,7 +206210,7 @@
       {
         "consumed_items": [
           {
-            "id": 1703771822,
+            "id": 711847037,
             "quantity": 1
           }
         ],
@@ -206300,7 +206300,7 @@
       {
         "consumed_items": [
           {
-            "id": 1134503739,
+            "id": 914845320,
             "quantity": 1
           }
         ],
@@ -206315,7 +206315,7 @@
       {
         "consumed_items": [
           {
-            "id": 914845320,
+            "id": 1134503739,
             "quantity": 1
           }
         ],
@@ -206555,7 +206555,7 @@
       {
         "consumed_items": [
           {
-            "id": 725605566,
+            "id": 1437399042,
             "quantity": 1
           }
         ],
@@ -206570,7 +206570,7 @@
       {
         "consumed_items": [
           {
-            "id": 1437399042,
+            "id": 725605566,
             "quantity": 1
           }
         ],
@@ -206765,7 +206765,7 @@
       {
         "consumed_items": [
           {
-            "id": 2147367716,
+            "id": 1699265042,
             "quantity": 1
           }
         ],
@@ -206780,7 +206780,7 @@
       {
         "consumed_items": [
           {
-            "id": 1699265042,
+            "id": 2147367716,
             "quantity": 1
           }
         ],
@@ -207005,7 +207005,7 @@
       {
         "consumed_items": [
           {
-            "id": 1845657486,
+            "id": 691592949,
             "quantity": 1
           }
         ],
@@ -207020,7 +207020,7 @@
       {
         "consumed_items": [
           {
-            "id": 691592949,
+            "id": 1845657486,
             "quantity": 1
           }
         ],
@@ -215408,31 +215408,6 @@
       {
         "consumed_items": [
           {
-            "id": 304830442,
-            "quantity": 1
-          },
-          {
-            "id": 3070004,
-            "quantity": 4
-          },
-          {
-            "id": 3050001,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 30,
-          "skill_id": 8
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1512222364,
             "quantity": 1
           },
@@ -215448,6 +215423,31 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 304830442,
+            "quantity": 1
+          },
+          {
+            "id": 3070004,
+            "quantity": 4
+          },
+          {
+            "id": 3050001,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 30,
+          "skill_id": 8
         },
         "output_quantity": 1,
         "possibilities": {
@@ -229978,21 +229978,6 @@
       {
         "consumed_items": [
           {
-            "id": 1358197935,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 50,
-        "possibilities": {},
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1554284811,
             "quantity": 1
           }
@@ -230002,6 +229987,21 @@
           "skill_id": 6
         },
         "output_quantity": 15,
+        "possibilities": {},
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1358197935,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 50,
         "possibilities": {},
         "role": "producer"
       },
@@ -230248,7 +230248,7 @@
       {
         "consumed_items": [
           {
-            "id": 2084252589,
+            "id": 2126197692,
             "quantity": 1
           }
         ],
@@ -230263,7 +230263,7 @@
       {
         "consumed_items": [
           {
-            "id": 2126197692,
+            "id": 2084252589,
             "quantity": 1
           }
         ],
@@ -230807,31 +230807,6 @@
       {
         "consumed_items": [
           {
-            "id": 1564879150,
-            "quantity": 1
-          },
-          {
-            "id": 447596001,
-            "quantity": 45
-          },
-          {
-            "id": 479733233,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 961558426,
             "quantity": 1
           },
@@ -230847,6 +230822,31 @@
         "level_requirements": {
           "level": 60,
           "skill_id": 10
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 1564879150,
+            "quantity": 1
+          },
+          {
+            "id": 447596001,
+            "quantity": 45
+          },
+          {
+            "id": 479733233,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
         },
         "output_quantity": 1,
         "possibilities": {
@@ -237075,6 +237075,31 @@
       {
         "consumed_items": [
           {
+            "id": 1543164659,
+            "quantity": 1
+          },
+          {
+            "id": 850298123,
+            "quantity": 15
+          },
+          {
+            "id": 1866006436,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1045626866,
             "quantity": 1
           },
@@ -237097,31 +237122,6 @@
         ],
         "level_requirements": {
           "level": 40,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 1543164659,
-            "quantity": 1
-          },
-          {
-            "id": 850298123,
-            "quantity": 15
-          },
-          {
-            "id": 1866006436,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -238019,31 +238019,6 @@
       {
         "consumed_items": [
           {
-            "id": 264387410,
-            "quantity": 1
-          },
-          {
-            "id": 1407207381,
-            "quantity": 150
-          },
-          {
-            "id": 2081179538,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.0375
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1199804120,
             "quantity": 1
           },
@@ -238059,6 +238034,31 @@
         "level_requirements": {
           "level": 80,
           "skill_id": 10
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.0375
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 264387410,
+            "quantity": 1
+          },
+          {
+            "id": 1407207381,
+            "quantity": 150
+          },
+          {
+            "id": 2081179538,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
         },
         "output_quantity": 1,
         "possibilities": {
@@ -241231,6 +241231,31 @@
       {
         "consumed_items": [
           {
+            "id": 745640067,
+            "quantity": 1
+          },
+          {
+            "id": 64403396,
+            "quantity": 5
+          },
+          {
+            "id": 1639666736,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 1,
+          "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.15
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
             "id": 1809560712,
             "quantity": 1
           },
@@ -241253,31 +241278,6 @@
         ],
         "level_requirements": {
           "level": 70,
-          "skill_id": 6
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.15
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 745640067,
-            "quantity": 1
-          },
-          {
-            "id": 64403396,
-            "quantity": 5
-          },
-          {
-            "id": 1639666736,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
-          "level": 1,
           "skill_id": 6
         },
         "output_quantity": 1,
@@ -243270,27 +243270,6 @@
       {
         "consumed_items": [
           {
-            "id": 44626489,
-            "quantity": 1
-          },
-          {
-            "id": 136406464,
-            "quantity": 2
-          }
-        ],
-        "level_requirements": {
-          "level": 80,
-          "skill_id": 10
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 0.075
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
             "id": 1561194862,
             "quantity": 1
           },
@@ -243306,6 +243285,27 @@
         "level_requirements": {
           "level": 1,
           "skill_id": 6
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 0.075
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 44626489,
+            "quantity": 1
+          },
+          {
+            "id": 136406464,
+            "quantity": 2
+          }
+        ],
+        "level_requirements": {
+          "level": 80,
+          "skill_id": 10
         },
         "output_quantity": 1,
         "possibilities": {
@@ -244980,12 +244980,12 @@
           }
         ],
         "level_requirements": {
-          "level": 60,
+          "level": 65,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 64.0
+          "1": 256.0
         },
         "role": "producer"
       },
@@ -245001,12 +245001,12 @@
           }
         ],
         "level_requirements": {
-          "level": 65,
+          "level": 70,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 256.0
+          "1": 1.0
         },
         "role": "producer"
       },
@@ -245043,27 +245043,6 @@
           }
         ],
         "level_requirements": {
-          "level": 50,
-          "skill_id": 13
-        },
-        "output_quantity": 1,
-        "possibilities": {
-          "1": 4.0
-        },
-        "role": "producer"
-      },
-      {
-        "consumed_items": [
-          {
-            "id": 716579225,
-            "quantity": 1
-          },
-          {
-            "id": 253606511,
-            "quantity": 1
-          }
-        ],
-        "level_requirements": {
           "level": 55,
           "skill_id": 13
         },
@@ -245085,12 +245064,33 @@
           }
         ],
         "level_requirements": {
-          "level": 70,
+          "level": 50,
           "skill_id": 13
         },
         "output_quantity": 1,
         "possibilities": {
-          "1": 1.0
+          "1": 4.0
+        },
+        "role": "producer"
+      },
+      {
+        "consumed_items": [
+          {
+            "id": 716579225,
+            "quantity": 1
+          },
+          {
+            "id": 253606511,
+            "quantity": 1
+          }
+        ],
+        "level_requirements": {
+          "level": 60,
+          "skill_id": 13
+        },
+        "output_quantity": 1,
+        "possibilities": {
+          "1": 64.0
         },
         "role": "producer"
       }
